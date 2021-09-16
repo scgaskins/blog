@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introduction Post"
+author: Sammy
 ---
 Overall, I found setting up this blog to be pretty straightforward. I have had prior experience working with the terminal, and the instructions given on the course website were fairly clear. I did make a few mistakes such as making my Gemfile a .txt file and misspelling some things in the _config.yml file, but these were easy fixes.
 
