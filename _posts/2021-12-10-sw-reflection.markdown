@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SW Reflection"
+author: Sammy
+---
+
+When making a website, or any form of application, for a client, I feel that communication is the most valuable skill to have. Since our client had no experience with web development or database experience, my teammates and I needed to do a bit of translation. Our client had an idea of what she wanted our database to do but it was our job to figure out the specifics of its implementation. This required us to have a good understanding of the tools we were working with so that we could see how to implement her ideas. It also required us to keep our client updated on what we were doing so that we were sure our implementation matched her vision.
+
+I initially struggled with this translation aspect of communication. I was used to working on projects mostly on my own, and would often go straight from an idea to an implementation. At first, I had trouble explaining my ideas to the client and even to my teammates at times. Describing my ideas forced me to think through them carefully so that I could articulate them precisely. In the process, I sometimes found that the reason I couldn't explain my ideas very well was because they weren't well thought out to begin with. I thus learned both how to better explain my ideas and how to formulate better plans.
+
+I found the development process that I learned in Mobile Software Development to be very helpful in working with a client. In Mobile Software Development, we started with a concept, progressed to writing use cases that defined what the app would do, and then created the app based on that. Though I never worked with a client in that class, I found that the process mapped very closely to a client relationship. We started with our client's idea, and then needed to define exactly what our website could do. Writing use cases before figuring out any technical details allowed us to make our client understand what we were doing well enough to make changes to better fit her needs. Since nothing had been implemented yet, these changes were pretty easy to make, and didn't require undoing any of our work. This project thus gave me a much better appreciation of what I learned in Mobile Software.
